@@ -1,5 +1,5 @@
 # rsschool-cv
 
-https://yurii01.github.io/rsschool-cv/cv
+CV-mardown: https://yurii01.github.io/rsschool-cv/cv
 
-https://yurii01.github.io/rsschool-cv/
+Cv-html: https://yurii01.github.io/rsschool-cv/
